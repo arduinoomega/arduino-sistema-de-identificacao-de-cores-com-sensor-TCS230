@@ -5,5 +5,5 @@ Podemos observar no intervalo do espectro eletromagnético a luz visível, que c
 
 Veja o tutorial completo em <a href="http://portaldoarduino.com.br/identificacao-de-cores-com-arduino-e-sensor-tcs230/" target="_blank">Portal do Arduino - Identificacão de cores com Arduino e sensor TCS230</a>
 
-Tutorail por Pedro Pereira.
-<a href=" https://www.instagram.com/laboratorio_dosfundos/">Laboratório dos Fundos</a>
+Tutorial por Pedro Pereira.
+<a href="https://www.instagram.com/laboratorio_dosfundos/">Laboratório dos Fundos</a>
